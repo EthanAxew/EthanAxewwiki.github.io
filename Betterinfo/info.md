@@ -44,7 +44,7 @@
 
 <br />
 
-| [<<上一页--主页](Betterinfo/betterinfo.md)<div style="width:200px"> | [下一页--查询服务器消息>>](Betterinfo/Serverinfo.md)<div style="width:200px"> |
+| [<<上一页--主页](Betterinfo/Betterinfo.md)<div style="width:200px"> | [下一页--查询服务器消息>>](Betterinfo/Serverinfo.md)<div style="width:200px"> |
 | ------------------------------------------------------------ | -----------------------------------------------------------: |
 
 
