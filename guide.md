@@ -1,5 +1,5 @@
-# 操作指南
+# Betterinfo插件
 
-这是一些操作的指南
+Betterinfo插件官方Wiki
 
 [<<返回首页](/)
