@@ -4,17 +4,29 @@
 
 ------
 
-#### [简介:](Betterinfo/info.md)
+#### [简介](Betterinfo/info.md)
 
 #### 功能:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [1.查询服务器信息](Betterinfo/Serveinfo.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [2.玩家加入消息](Betterinfo/Playerjoin.md)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [3.玩家退出消息](Betterinfo/Playerquit.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;[4.玩家死亡消息](Betterinfo/Playerdeath.md)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [5.玩家死亡掉落经验](Betterinfo/Deathxp.md)
+| [1.查询服务器信息](Betterinfo/Serveinfo.md)<div style="width:200px"> | [2.玩家加入消息](Betterinfo/Playerjoin.md)<div style="width:200px"> |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+|          [3.玩家退出消息](Betterinfo/Playerquit.md)          |         [4.玩家死亡消息](Betterinfo/Playerdeath.md)          |
+|         [5.玩家死亡掉落经验](Betterinfo/Deathxp.md)          |                                                              |
+
+
+
+
+
+
+
+
 
 #### 权限&指令:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [1.权限](Betterinfo/permissions.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [2.指令](Betterinfo/commands.md)
+
+
+| [1.权限](Betterinfo/permissions.md)<div style="width:200px"> | [2.指令](Betterinfo/commands.md)<div style="width:200px"> |
+| ------------------------------------------------------------ | --------------------------------------------------------- |
 

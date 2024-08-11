@@ -8,7 +8,8 @@
 
 ##### 1.持续更新插件:
 
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [1.1 [信息自定义] BetterInfo](Betterinfo/Betterinfo.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [1.2[睡觉跳过] Eclock](Eclock.md)
+| [1.1 [信息自定义] BetterInfo](Betterinfo/Betterinfo.md)<div style="width:200px"> | [1.2[睡觉跳过] Eclock](Eclock.md)<div style="width:200px"> |
+| ------------------------------------------------------------ | ---------------------------------------------------------- |
 
 ##### 2.半更新插件:
 
