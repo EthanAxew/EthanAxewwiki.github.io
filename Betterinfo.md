@@ -2,4 +2,4 @@
 
 Betterinfo插件官方Wiki
 
-[<<返回首页](/)
+[<<返回首页](README.md)

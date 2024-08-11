@@ -1,2 +1,3 @@
-* [EthanAxe插件官方Wiki](/)
-* [Betterinfo插件](guide.md)
+* [EthanAxe插件官方Wiki](README.md)
+* [Betterinfo插件](Betterinfo)
+* [Eclock插件](Eclock.md)
